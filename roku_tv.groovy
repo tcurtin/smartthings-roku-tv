@@ -1,6 +1,6 @@
 preferences {
-    input("deviceIp", "text", title: "Device IP")
-    input("deviceMac", "text", title: "Device MAC Address")
+    input("deviceIp", "text", title: "192.168.0.220")
+    input("deviceMac", "text", title: "AC-B5-7D-39-5E-20")
 }
 
 metadata {
